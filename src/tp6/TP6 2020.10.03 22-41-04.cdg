@@ -16,8 +16,6 @@
       <Constructors/>
       <Methods>
         <Method name="armar" returnType="void" visibility="public"/>
-        <Method name="numerosPares" returnType="void" visibility="public">
-          <Argument type="int" name="matriz"/>
         </Method>
       </Methods>
     </Class>
