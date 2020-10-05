@@ -50,12 +50,7 @@ public class Matriz {
    
  
 
-public void numerosPares(int matriz[][]){
-    
-   
-        
 
-} 
 } 
 
 
